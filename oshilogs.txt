@@ -12,281 +12,53 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kilna =====
-[1]Kilna       |09:08:22 | 11-10-2026| login OK @gkilnaa | score=910 rank=6461
-[1]Kilna       |09:08:22 | 11-10-2026| serverTime=2026-10-11T09:08:22.000Z local=2026-10-11T09:08:22.900Z
+[1]Kilna       |07:00:20 | 12-10-2026| login OK @gkilnaa | score=990 rank=6167
+[1]Kilna       |07:00:20 | 12-10-2026| serverTime=2026-10-12T07:00:20.000Z local=2026-10-12T07:00:20.185Z
 --> [1]Kilna menjalankan: Claim Daily
-[1]Kilna       |09:08:25 | 11-10-2026| daily: sudah klaim (already=true) score=910
---> [1]Kilna menjalankan: Auto All Tasks (3 pending)
-[1]Kilna       |09:08:27 | 11-10-2026| [1/3] aa6b471b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109209038289448827
-[1]Kilna       |09:08:27 | 11-10-2026| delay 10s...
-[1]Kilna       |09:08:38 | 11-10-2026| [2/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109209204128809968
-[1]Kilna       |09:08:38 | 11-10-2026| delay 10s...
-[1]Kilna       |09:08:51 | 11-10-2026| [3/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109208963454788954
-[1]Kilna       |09:08:51 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kilna       |09:08:52 | 11-10-2026| [1/1] aa6b471b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/gkilnaa/status/2109209091035166381
+[1]Kilna       |07:00:21 | 12-10-2026| daily: OK +10 poin score=1000
+--> [1]Kilna menjalankan: Auto All Tasks (7 pending)
+[1]Kilna       |07:00:23 | 12-10-2026| [1/7] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109539098742988841
+[1]Kilna       |07:00:23 | 12-10-2026| delay 10s...
+[1]Kilna       |07:00:36 | 12-10-2026| [2/7] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109539153145305042
+[1]Kilna       |07:00:36 | 12-10-2026| delay 10s...
+[1]Kilna       |07:00:49 | 12-10-2026| [3/7] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Kilna       |07:00:49 | 12-10-2026| delay 10s...
+[1]Kilna       |07:01:01 | 12-10-2026| [4/7] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109539450236626102
+[1]Kilna       |07:01:01 | 12-10-2026| delay 10s...
+[1]Kilna       |07:01:13 | 12-10-2026| [5/7] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109539488326914896
+[1]Kilna       |07:01:13 | 12-10-2026| delay 10s...
+[1]Kilna       |07:01:31 | 12-10-2026| [6/7] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Kilna       |07:01:31 | 12-10-2026| delay 10s...
+[1]Kilna       |07:01:43 | 12-10-2026| [7/7] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/gkilnaa/status/2109539505225543460
+[1]Kilna       |07:01:43 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kilna       |07:01:45 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/gkilnaa/status/2109539505726100337
 --> [1]Kilna menjalankan: Watch Anime
-[1]Kilna       |09:08:52 | 11-10-2026| watch: 3 video belum completed: oshi-theme-lyric-video,oshi-first-journey,ep1
-[1]Kilna       |09:08:52 | 11-10-2026| watch [1/3] farming oshi-theme-lyric-video...
-[1]Kilna       |09:08:53 | 11-10-2026| watch oshi-theme-lyric-video: mulai dari 0 (record 99.0s diabaikan)
-[1]Kilna       |09:08:54 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:00 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:06 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:13 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:20 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:29 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:36 | 11-10-2026| watch oshi-theme-lyric-video: 36% (99.01/269.00s)
-[1]Kilna       |09:09:42 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.33/269.00s)
-[1]Kilna       |09:09:49 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.33/269.00s)
-[1]Kilna       |09:09:55 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.33/269.00s)
-[1]Kilna       |09:10:01 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.52/269.00s)
-[1]Kilna       |09:10:07 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.52/269.00s)
-[1]Kilna       |09:10:13 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.93/269.00s)
-[1]Kilna       |09:10:20 | 11-10-2026| watch oshi-theme-lyric-video: 37% (100.93/269.00s)
-[1]Kilna       |09:10:26 | 11-10-2026| watch oshi-theme-lyric-video: 37% (101.20/269.00s)
-[1]Kilna       |09:10:32 | 11-10-2026| watch oshi-theme-lyric-video: 37% (101.20/269.00s)
-[1]Kilna       |09:10:38 | 11-10-2026| watch oshi-theme-lyric-video: 37% (101.20/269.00s)
-[1]Kilna       |09:10:44 | 11-10-2026| watch oshi-theme-lyric-video: 37% (101.20/269.00s)
-[1]Kilna       |09:10:51 | 11-10-2026| watch oshi-theme-lyric-video: 38% (104.66/269.00s)
-[1]Kilna       |09:10:59 | 11-10-2026| watch oshi-theme-lyric-video: 41% (111.32/269.00s)
-[1]Kilna       |09:11:06 | 11-10-2026| watch oshi-theme-lyric-video: 43% (117.49/269.00s)
-[1]Kilna       |09:11:15 | 11-10-2026| watch oshi-theme-lyric-video: 45% (122.89/269.00s)
-[1]Kilna       |09:11:21 | 11-10-2026| watch oshi-theme-lyric-video: 45% (122.89/269.00s)
-[1]Kilna       |09:11:28 | 11-10-2026| watch oshi-theme-lyric-video: 47% (128.28/269.00s)
-[1]Kilna       |09:11:34 | 11-10-2026| watch oshi-theme-lyric-video: 49% (134.37/269.00s)
-[1]Kilna       |09:11:40 | 11-10-2026| watch oshi-theme-lyric-video: 51% (139.85/269.00s)
-[1]Kilna       |09:11:46 | 11-10-2026| watch oshi-theme-lyric-video: 54% (145.33/269.00s)
-[1]Kilna       |09:11:53 | 11-10-2026| watch oshi-theme-lyric-video: 56% (150.74/269.00s)
-[1]Kilna       |09:11:59 | 11-10-2026| watch oshi-theme-lyric-video: 58% (156.74/269.00s)
-[1]Kilna       |09:12:05 | 11-10-2026| watch oshi-theme-lyric-video: 60% (162.12/269.00s)
-[1]Kilna       |09:12:12 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.54/269.00s)
-[1]Kilna       |09:12:18 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.35/269.00s)
-[1]Kilna       |09:12:24 | 11-10-2026| watch oshi-theme-lyric-video: 66% (178.72/269.00s)
-[1]Kilna       |09:12:30 | 11-10-2026| watch oshi-theme-lyric-video: 68% (184.10/269.00s)
-[1]Kilna       |09:12:36 | 11-10-2026| watch oshi-theme-lyric-video: 70% (189.60/269.00s)
-[1]Kilna       |09:12:45 | 11-10-2026| watch oshi-theme-lyric-video: 72% (195.12/269.00s)
-[1]Kilna       |09:12:51 | 11-10-2026| watch oshi-theme-lyric-video: 74% (201.17/269.00s)
-[1]Kilna       |09:12:58 | 11-10-2026| watch oshi-theme-lyric-video: 76% (206.57/269.00s)
-[1]Kilna       |09:13:05 | 11-10-2026| watch oshi-theme-lyric-video: 79% (213.20/269.00s)
-[1]Kilna       |09:13:12 | 11-10-2026| watch oshi-theme-lyric-video: 81% (219.74/269.00s)
-[1]Kilna       |09:13:18 | 11-10-2026| watch oshi-theme-lyric-video: 83% (225.73/269.00s)
-[1]Kilna       |09:13:24 | 11-10-2026| watch oshi-theme-lyric-video: 85% (231.13/269.00s)
-[1]Kilna       |09:13:31 | 11-10-2026| watch oshi-theme-lyric-video: 87% (236.50/269.00s)
-[1]Kilna       |09:13:37 | 11-10-2026| watch oshi-theme-lyric-video: 90% (242.47/269.00s)
-[1]Kilna       |09:13:37 | 11-10-2026| watch oshi-theme-lyric-video: COMPLETED (242.47/269.00s)
-[1]Kilna       |09:13:42 | 11-10-2026| watch [2/3] farming oshi-first-journey...
-[1]Kilna       |09:13:46 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Kilna       |09:13:56 | 11-10-2026| watch oshi-first-journey: 6% (5.82/87.00s)
-[1]Kilna       |09:14:05 | 11-10-2026| watch oshi-first-journey: 16% (14.52/87.00s)
-[1]Kilna       |09:14:12 | 11-10-2026| watch oshi-first-journey: 25% (22.22/87.00s)
-[1]Kilna       |09:14:19 | 11-10-2026| watch oshi-first-journey: 32% (28.49/87.00s)
-[1]Kilna       |09:14:25 | 11-10-2026| watch oshi-first-journey: 39% (34.08/87.00s)
-[1]Kilna       |09:14:31 | 11-10-2026| watch oshi-first-journey: 45% (39.60/87.00s)
-[1]Kilna       |09:14:37 | 11-10-2026| watch oshi-first-journey: 51% (45.17/87.00s)
-[1]Kilna       |09:14:43 | 11-10-2026| watch oshi-first-journey: 58% (50.61/87.00s)
-[1]Kilna       |09:14:52 | 11-10-2026| watch oshi-first-journey: 64% (56.43/87.00s)
-[1]Kilna       |09:14:58 | 11-10-2026| watch oshi-first-journey: 72% (63.24/87.00s)
-[1]Kilna       |09:15:04 | 11-10-2026| watch oshi-first-journey: 78% (68.62/87.00s)
-[1]Kilna       |09:15:11 | 11-10-2026| watch oshi-first-journey: 85% (74.57/87.00s)
-[1]Kilna       |09:15:17 | 11-10-2026| watch oshi-first-journey: 92% (80.26/87.00s)
-[1]Kilna       |09:15:17 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.26/87.00s)
-[1]Kilna       |09:15:22 | 11-10-2026| watch [3/3] farming ep1...
-[1]Kilna       |09:15:26 | 11-10-2026| watch ep1: mulai dari 0 (record 119.5s diabaikan)
-[1]Kilna       |09:15:30 | 11-10-2026| watch ep1: 31% (119.51/382.00s)
-[1]Kilna       |09:15:36 | 11-10-2026| watch ep1: 31% (119.51/382.00s)
-[1]Kilna       |09:15:44 | 11-10-2026| watch ep1: 31% (119.51/382.00s)
-[1]Kilna       |09:15:51 | 11-10-2026| watch ep1: 31% (119.51/382.00s)
-[1]Kilna       |09:15:57 | 11-10-2026| watch ep1: 31% (119.51/382.00s)
-[1]Kilna       |09:16:04 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:11 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:17 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:23 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:30 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:36 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:43 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:51 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:16:57 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:17:05 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:17:15 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:17:23 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:17:29 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:17:37 | 11-10-2026| watch ep1: 31% (121.96/382.00s)
-[1]Kilna       |09:17:44 | 11-10-2026| watch ep1: 32% (122.40/382.00s)
-[1]Kilna       |09:17:51 | 11-10-2026| watch ep1: 33% (128.58/382.00s)
-[1]Kilna       |09:17:58 | 11-10-2026| watch ep1: 35% (135.16/382.00s)
-[1]Kilna       |09:18:04 | 11-10-2026| watch ep1: 36% (141.26/382.00s)
-[1]Kilna       |09:18:12 | 11-10-2026| watch ep1: 38% (146.72/382.00s)
-[1]Kilna       |09:18:18 | 11-10-2026| watch ep1: 40% (153.23/382.00s)
-[1]Kilna       |09:18:25 | 11-10-2026| watch ep1: 41% (158.67/382.00s)
-[1]Kilna       |09:18:32 | 11-10-2026| watch ep1: 43% (164.98/382.00s)
-[1]Kilna       |09:18:38 | 11-10-2026| watch ep1: 44% (170.84/382.00s)
-[1]Kilna       |09:18:45 | 11-10-2026| watch ep1: 46% (176.75/382.00s)
-[1]Kilna       |09:18:51 | 11-10-2026| watch ep1: 47% (182.80/382.00s)
-[1]Kilna       |09:18:58 | 11-10-2026| watch ep1: 49% (188.25/382.00s)
-[1]Kilna       |09:19:04 | 11-10-2026| watch ep1: 50% (194.13/382.00s)
-[1]Kilna       |09:19:10 | 11-10-2026| watch ep1: 52% (199.68/382.00s)
-[1]Kilna       |09:19:17 | 11-10-2026| watch ep1: 53% (205.38/382.00s)
-[1]Kilna       |09:19:23 | 11-10-2026| watch ep1: 55% (211.33/382.00s)
-[1]Kilna       |09:19:29 | 11-10-2026| watch ep1: 56% (216.76/382.00s)
-[1]Kilna       |09:19:35 | 11-10-2026| watch ep1: 58% (222.11/382.00s)
-[1]Kilna       |09:19:42 | 11-10-2026| watch ep1: 59% (227.46/382.00s)
-[1]Kilna       |09:19:48 | 11-10-2026| watch ep1: 61% (233.43/382.00s)
-[1]Kilna       |09:19:54 | 11-10-2026| watch ep1: 62% (238.79/382.00s)
-[1]Kilna       |09:20:01 | 11-10-2026| watch ep1: 64% (244.69/382.00s)
-[1]Kilna       |09:20:08 | 11-10-2026| watch ep1: 65% (250.85/382.00s)
-[1]Kilna       |09:20:15 | 11-10-2026| watch ep1: 67% (256.98/382.00s)
-[1]Kilna       |09:20:22 | 11-10-2026| watch ep1: 68% (263.50/382.00s)
-[1]Kilna       |09:20:29 | 11-10-2026| watch ep1: 70% (269.35/382.00s)
-[1]Kilna       |09:20:36 | 11-10-2026| watch ep1: 72% (275.66/382.00s)
-[1]Kilna       |09:20:42 | 11-10-2026| watch ep1: 73% (282.06/382.00s)
-[1]Kilna       |09:20:50 | 11-10-2026| watch ep1: 75% (287.83/382.00s)
-[1]Kilna       |09:21:01 | 11-10-2026| watch ep1: 77% (294.72/382.00s)
-[1]Kilna       |09:21:10 | 11-10-2026| watch ep1: 79% (303.62/382.00s)
-[1]Kilna       |09:21:18 | 11-10-2026| watch ep1: 81% (311.50/382.00s)
-[1]Kilna       |09:21:25 | 11-10-2026| watch ep1: 83% (318.37/382.00s)
-[1]Kilna       |09:21:31 | 11-10-2026| watch ep1: 84% (324.46/382.00s)
-[1]Kilna       |09:21:37 | 11-10-2026| watch ep1: 86% (329.83/382.00s)
-[1]Kilna       |09:21:44 | 11-10-2026| watch ep1: 87% (335.82/382.00s)
-[1]Kilna       |09:21:51 | 11-10-2026| watch ep1: 89% (341.95/382.00s)
-[1]Kilna       |09:21:57 | 11-10-2026| watch ep1: 91% (348.19/382.00s)
-[1]Kilna       |09:21:57 | 11-10-2026| watch ep1: COMPLETED (348.19/382.00s)
+[1]Kilna       |07:01:45 | 12-10-2026| watch: semua video sudah completed
 --> [1]Kilna menjalankan: Read Article
-[1]Kilna       |09:21:59 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Kilna       |09:21:59 | 11-10-2026| mint eligibility: {"userId":"2011479517563666436","youtube":{"url":"https://www.youtube.com/@gkilna","status":"submitted","revision":"f724f5f7-8cd0-41f8-ae0b-75a3e92909cf","submittedAt":1791685997,"reviewedAt":17916918
-[1]Kilna       |09:21:59 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Kilna       |07:01:48 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Kilna       |07:01:49 | 12-10-2026| mint eligibility: {"userId":"2011479517563666436","youtube":{"url":"https://www.youtube.com/@gkilna","status":"submitted","revision":"f724f5f7-8cd0-41f8-ae0b-75a3e92909cf","submittedAt":1791685997,"reviewedAt":17916918
+[1]Kilna       |07:01:49 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Kilna menjalankan: Quiz Anime
-[1]Kilna       |09:22:07 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Kilna       |09:22:10 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Kilna       |09:22:10 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Kilna       |09:22:10 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Kilna       |09:22:10 | 11-10-2026| quiz ep5: sudah dijawab
-[1]Kilna       |09:22:10 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Kilna       |07:01:49 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Kilna       |07:01:49 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Kilna       |07:01:49 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Kilna       |07:01:49 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Kilna       |07:01:49 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Kilna       |07:01:49 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Kilna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kilna       |09:22:15 | 11-10-2026| music memutar "記憶の名前" (224s)...
-[1]Kilna       |09:22:27 | 11-10-2026| music "記憶の名前": 4% (9.0063/224s)
-[1]Kilna       |09:22:39 | 11-10-2026| music "記憶の名前": 8% (19.598399999999998/224s)
-[1]Kilna       |09:22:50 | 11-10-2026| music "記憶の名前": 13% (30.316499999999998/224s)
-[1]Kilna       |09:23:02 | 11-10-2026| music "記憶の名前": 18% (40.3713/224s)
-[1]Kilna       |09:23:13 | 11-10-2026| music "記憶の名前": 22% (51.2055/224s)
-[1]Kilna       |09:23:24 | 11-10-2026| music "記憶の名前": 27% (61.0065/224s)
-[1]Kilna       |09:23:34 | 11-10-2026| music "記憶の名前": 31% (70.7913/224s)
-[1]Kilna       |09:23:46 | 11-10-2026| music "記憶の名前": 35% (80.5275/224s)
-[1]Kilna       |09:23:57 | 11-10-2026| music "記憶の名前": 40% (91.1691/224s)
-[1]Kilna       |09:24:08 | 11-10-2026| music "記憶の名前": 45% (100.9062/224s)
-[1]Kilna       |09:24:19 | 11-10-2026| music "記憶の名前": 49% (110.718/224s)
-[1]Kilna       |09:24:32 | 11-10-2026| music "記憶の名前": 53% (120.44160000000001/224s)
-[1]Kilna       |09:24:43 | 11-10-2026| music "記憶の名前": 59% (132.4008/224s)
-[1]Kilna       |09:24:54 | 11-10-2026| music "記憶の名前": 63% (142.3512/224s)
-[1]Kilna       |09:25:05 | 11-10-2026| music "記憶の名前": 67% (152.0667/224s)
-[1]Kilna       |09:25:16 | 11-10-2026| music "記憶の名前": 72% (161.9973/224s)
-[1]Kilna       |09:25:29 | 11-10-2026| music "記憶の名前": 76% (171.8289/224s)
-[1]Kilna       |09:25:40 | 11-10-2026| music "記憶の名前": 81% (183.42000000000002/224s)
-[1]Kilna       |09:25:40 | 11-10-2026| music "記憶の名前": selesai 183.42000000000002s
-[1]Kilna       |09:25:42 | 11-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Kilna       |09:25:53 | 11-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Kilna       |09:26:04 | 11-10-2026| music "Smart Pocket": 8% (19.296/232s)
-[1]Kilna       |09:26:15 | 11-10-2026| music "Smart Pocket": 12% (29.0412/232s)
-[1]Kilna       |09:26:27 | 11-10-2026| music "Smart Pocket": 16% (38.8908/232s)
-[1]Kilna       |09:26:38 | 11-10-2026| music "Smart Pocket": 21% (49.3956/232s)
-[1]Kilna       |09:26:49 | 11-10-2026| music "Smart Pocket": 25% (59.6079/232s)
-[1]Kilna       |09:27:00 | 11-10-2026| music "Smart Pocket": 30% (69.77250000000001/232s)
-[1]Kilna       |09:27:11 | 11-10-2026| music "Smart Pocket": 34% (79.49340000000001/232s)
-[1]Kilna       |09:27:24 | 11-10-2026| music "Smart Pocket": 38% (89.4132/232s)
-[1]Kilna       |09:27:35 | 11-10-2026| music "Smart Pocket": 43% (100.91250000000001/232s)
-[1]Kilna       |09:27:46 | 11-10-2026| music "Smart Pocket": 47% (110.9466/232s)
-[1]Kilna       |09:27:57 | 11-10-2026| music "Smart Pocket": 52% (120.6549/232s)
-[1]Kilna       |09:28:07 | 11-10-2026| music "Smart Pocket": 56% (130.374/232s)
-[1]Kilna       |09:28:18 | 11-10-2026| music "Smart Pocket": 60% (140.2083/232s)
-[1]Kilna       |09:28:30 | 11-10-2026| music "Smart Pocket": 64% (149.9418/232s)
-[1]Kilna       |09:28:41 | 11-10-2026| music "Smart Pocket": 69% (160.35660000000001/232s)
-[1]Kilna       |09:28:53 | 11-10-2026| music "Smart Pocket": 73% (170.2125/232s)
-[1]Kilna       |09:29:05 | 11-10-2026| music "Smart Pocket": 78% (181.4922/232s)
-[1]Kilna       |09:29:16 | 11-10-2026| music "Smart Pocket": 82% (191.8458/232s)
-[1]Kilna       |09:29:17 | 11-10-2026| music "Smart Pocket": selesai 191.8458s
-[1]Kilna       |09:29:19 | 11-10-2026| music memutar "神様みたいに" (254s)...
-[1]Kilna       |09:29:30 | 11-10-2026| music "神様みたいに": 3% (9.0045/254s)
-[1]Kilna       |09:29:42 | 11-10-2026| music "神様みたいに": 7% (18.8352/254s)
-[1]Kilna       |09:29:54 | 11-10-2026| music "神様みたいに": 11% (29.025/254s)
-[1]Kilna       |09:30:05 | 11-10-2026| music "神様みたいに": 15% (39.9096/254s)
-[1]Kilna       |09:30:16 | 11-10-2026| music "神様みたいに": 19% (49.642199999999995/254s)
-[1]Kilna       |09:30:27 | 11-10-2026| music "神様みたいに": 23% (60.373799999999996/254s)
-[1]Kilna       |09:30:38 | 11-10-2026| music "神様みたいに": 27% (70.11449999999999/254s)
-[1]Kilna       |09:30:50 | 11-10-2026| music "神様みたいに": 31% (80.14049999999999/254s)
-[1]Kilna       |09:31:01 | 11-10-2026| music "神様みたいに": 35% (90.61559999999999/254s)
-[1]Kilna       |09:31:12 | 11-10-2026| music "神様みたいに": 39% (100.65419999999999/254s)
-[1]Kilna       |09:31:23 | 11-10-2026| music "神様みたいに": 43% (110.38319999999999/254s)
-[1]Kilna       |09:31:34 | 11-10-2026| music "神様みたいに": 47% (120.20219999999999/254s)
-[1]Kilna       |09:31:45 | 11-10-2026| music "神様みたいに": 51% (129.9177/254s)
-[1]Kilna       |09:31:58 | 11-10-2026| music "神様みたいに": 55% (139.8798/254s)
-[1]Kilna       |09:32:09 | 11-10-2026| music "神様みたいに": 59% (151.5762/254s)
-[1]Kilna       |09:32:20 | 11-10-2026| music "神様みたいに": 63% (161.4042/254s)
-[1]Kilna       |09:32:30 | 11-10-2026| music "神様みたいに": 67% (171.1422/254s)
-[1]Kilna       |09:32:41 | 11-10-2026| music "神様みたいに": 71% (180.918/254s)
-[1]Kilna       |09:32:52 | 11-10-2026| music "神様みたいに": 75% (190.8711/254s)
-[1]Kilna       |09:33:03 | 11-10-2026| music "神様みたいに": 78% (200.57850000000002/254s)
-[1]Kilna       |09:33:14 | 11-10-2026| music "神様みたいに": 82% (210.4146/254s)
-[1]Kilna       |09:33:15 | 11-10-2026| music "神様みたいに": selesai 210.4146s
-[1]Kilna       |09:33:16 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Kilna       |09:33:27 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Kilna       |09:33:39 | 11-10-2026| music "せーので、飛ぼう！": 6% (18.745199999999997/269s)
-[1]Kilna       |09:33:50 | 11-10-2026| music "せーので、飛ぼう！": 10% (29.224799999999995/269s)
-[1]Kilna       |09:34:01 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.055499999999995/269s)
-[1]Kilna       |09:34:12 | 11-10-2026| music "せーので、飛ぼう！": 18% (48.8052/269s)
-[1]Kilna       |09:34:23 | 11-10-2026| music "せーので、飛ぼう！": 21% (58.6251/269s)
-[1]Kilna       |09:34:34 | 11-10-2026| music "せーので、飛ぼう！": 25% (68.6547/269s)
-[1]Kilna       |09:34:45 | 11-10-2026| music "せーので、飛ぼう！": 29% (78.69330000000001/269s)
-[1]Kilna       |09:34:56 | 11-10-2026| music "せーので、飛ぼう！": 32% (88.6122/269s)
-[1]Kilna       |09:35:07 | 11-10-2026| music "せーので、飛ぼう！": 36% (98.3259/269s)
-[1]Kilna       |09:35:18 | 11-10-2026| music "せーので、飛ぼう！": 40% (108.47070000000001/269s)
-[1]Kilna       |09:35:30 | 11-10-2026| music "せーので、飛ぼう！": 44% (118.8657/269s)
-[1]Kilna       |09:35:41 | 11-10-2026| music "せーので、飛ぼう！": 47% (128.9619/269s)
-[1]Kilna       |09:35:52 | 11-10-2026| music "せーので、飛ぼう！": 51% (138.70440000000002/269s)
-[1]Kilna       |09:36:04 | 11-10-2026| music "せーので、飛ぼう！": 55% (149.2803/269s)
-[1]Kilna       |09:36:15 | 11-10-2026| music "せーので、飛ぼう！": 59% (159.60150000000002/269s)
-[1]Kilna       |09:36:26 | 11-10-2026| music "せーので、飛ぼう！": 62% (169.35750000000002/269s)
-[1]Kilna       |09:36:37 | 11-10-2026| music "せーので、飛ぼう！": 66% (179.59500000000003/269s)
-[1]Kilna       |09:36:48 | 11-10-2026| music "せーので、飛ぼう！": 70% (189.29880000000003/269s)
-[1]Kilna       |09:36:58 | 11-10-2026| music "せーので、飛ぼう！": 73% (199.04670000000002/269s)
-[1]Kilna       |09:37:09 | 11-10-2026| music "せーので、飛ぼう！": 77% (208.7829/269s)
-[1]Kilna       |09:37:20 | 11-10-2026| music "せーので、飛ぼう！": 81% (218.50650000000002/269s)
-[1]Kilna       |09:37:21 | 11-10-2026| music "せーので、飛ぼう！": selesai 218.50650000000002s
-[1]Kilna       |09:37:22 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Kilna       |09:37:34 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0063/276s)
-[1]Kilna       |09:37:45 | 11-10-2026| music "ON CHAIN NEXUS": 6% (19.070999999999998/276s)
-[1]Kilna       |09:37:56 | 11-10-2026| music "ON CHAIN NEXUS": 10% (29.1573/276s)
-[1]Kilna       |09:38:07 | 11-10-2026| music "ON CHAIN NEXUS": 14% (39.5721/276s)
-[1]Kilna       |09:38:18 | 11-10-2026| music "ON CHAIN NEXUS": 17% (49.3083/276s)
-[1]Kilna       |09:38:30 | 11-10-2026| music "ON CHAIN NEXUS": 21% (59.469300000000004/276s)
-[1]Kilna       |09:38:41 | 11-10-2026| music "ON CHAIN NEXUS": 25% (70.0047/276s)
-[1]Kilna       |09:38:52 | 11-10-2026| music "ON CHAIN NEXUS": 28% (79.9632/276s)
-[1]Kilna       |09:39:03 | 11-10-2026| music "ON CHAIN NEXUS": 32% (89.6958/276s)
-[1]Kilna       |09:39:14 | 11-10-2026| music "ON CHAIN NEXUS": 36% (99.9171/276s)
-[1]Kilna       |09:39:25 | 11-10-2026| music "ON CHAIN NEXUS": 39% (109.6164/276s)
-[1]Kilna       |09:39:36 | 11-10-2026| music "ON CHAIN NEXUS": 43% (119.7171/276s)
-[1]Kilna       |09:39:48 | 11-10-2026| music "ON CHAIN NEXUS": 46% (129.4785/276s)
-[1]Kilna       |09:40:00 | 11-10-2026| music "ON CHAIN NEXUS": 50% (139.9248/276s)
-[1]Kilna       |09:40:11 | 11-10-2026| music "ON CHAIN NEXUS": 54% (150.4323/276s)
-[1]Kilna       |09:40:22 | 11-10-2026| music "ON CHAIN NEXUS": 58% (160.30259999999998/276s)
-[1]Kilna       |09:40:33 | 11-10-2026| music "ON CHAIN NEXUS": 61% (170.63009999999997/276s)
-[1]Kilna       |09:40:44 | 11-10-2026| music "ON CHAIN NEXUS": 65% (180.56609999999998/276s)
-[1]Kilna       |09:40:55 | 11-10-2026| music "ON CHAIN NEXUS": 69% (190.60019999999997/276s)
-[1]Kilna       |09:41:06 | 11-10-2026| music "ON CHAIN NEXUS": 72% (200.67749999999998/276s)
-[1]Kilna       |09:41:17 | 11-10-2026| music "ON CHAIN NEXUS": 76% (210.39659999999998/276s)
-[1]Kilna       |09:41:28 | 11-10-2026| music "ON CHAIN NEXUS": 79% (220.48379999999997/276s)
-[1]Kilna       |09:41:39 | 11-10-2026| music "ON CHAIN NEXUS": 83% (230.24249999999998/276s)
-[1]Kilna       |09:41:40 | 11-10-2026| music "ON CHAIN NEXUS": selesai 230.24249999999998s
-[1]Kilna       |09:41:41 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kilna       |09:41:42 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Kilna       |09:41:46 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Kilna       |09:41:50 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Kilna       |07:01:51 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kilna       |07:01:52 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Kilna       |07:01:52 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kilna       |07:01:52 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kilna menjalankan: Claim Missions
-[1]Kilna       |09:41:54 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Kilna       |09:41:54 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kilna       |09:41:54 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kilna       |07:01:52 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Kilna       |07:01:52 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kilna       |07:01:52 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kilna menjalankan: Check Eligibility
 
 --- eligibility [1]Kilna ---
-  @gkilnaa | score=910 rank=6461
-  tasks    [###################-] 72/75
+  @gkilnaa | score=990 rank=6167
+  tasks    [##################--] 72/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -294,254 +66,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=false mintOpen=false discord=true
+  mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Kilna menjalankan: Read Manga
-[1]Kilna       |09:41:59 | 11-10-2026| manga: 13/13 chapter belum completed
-[1]Kilna       |09:41:59 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Kilna       |09:42:05 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Kilna       |09:42:10 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 4s
-[1]Kilna       |09:42:14 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
-[1]Kilna       |09:42:18 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 13s
-[1]Kilna       |09:42:23 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 17s
-[1]Kilna       |09:42:27 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 22s
-[1]Kilna       |09:42:32 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 26s
-[1]Kilna       |09:42:36 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 31s
-[1]Kilna       |09:42:41 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 35s
-[1]Kilna       |09:42:45 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 40s
-[1]Kilna       |09:42:49 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 44s
-[1]Kilna       |09:42:54 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 49s
-[1]Kilna       |09:42:58 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 53s
-[1]Kilna       |09:43:03 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 57s
-[1]Kilna       |09:43:08 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 62s
-[1]Kilna       |09:43:12 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 67s
-[1]Kilna       |09:43:16 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 71s
-[1]Kilna       |09:43:21 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 76s
-[1]Kilna       |09:43:25 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 80s
-[1]Kilna       |09:43:29 | 11-10-2026| manga ch1 (1): COMPLETED
-[1]Kilna       |09:43:32 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Kilna       |09:43:38 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Kilna       |09:43:42 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 4s
-[1]Kilna       |09:43:47 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Kilna       |09:43:52 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
-[1]Kilna       |09:43:56 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 18s
-[1]Kilna       |09:44:01 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
-[1]Kilna       |09:44:05 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
-[1]Kilna       |09:44:10 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
-[1]Kilna       |09:44:16 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
-[1]Kilna       |09:44:20 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
-[1]Kilna       |09:44:25 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 47s
-[1]Kilna       |09:44:29 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 52s
-[1]Kilna       |09:44:34 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 56s
-[1]Kilna       |09:44:39 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 61s
-[1]Kilna       |09:44:43 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 65s
-[1]Kilna       |09:44:48 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 70s
-[1]Kilna       |09:44:52 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 74s
-[1]Kilna       |09:44:56 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 79s
-[1]Kilna       |09:45:00 | 11-10-2026| manga ch2 (450001): COMPLETED
-[1]Kilna       |09:45:03 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Kilna       |09:45:09 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Kilna       |09:45:13 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
-[1]Kilna       |09:45:18 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Kilna       |09:45:22 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
-[1]Kilna       |09:45:27 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
-[1]Kilna       |09:45:32 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
-[1]Kilna       |09:45:37 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 28s
-[1]Kilna       |09:45:41 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 32s
-[1]Kilna       |09:45:45 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 37s
-[1]Kilna       |09:45:50 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 41s
-[1]Kilna       |09:45:54 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 45s
-[1]Kilna       |09:45:58 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 50s
-[1]Kilna       |09:46:03 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 54s
-[1]Kilna       |09:46:07 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 58s
-[1]Kilna       |09:46:11 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 63s
-[1]Kilna       |09:46:16 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 67s
-[1]Kilna       |09:46:20 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 72s
-[1]Kilna       |09:46:25 | 11-10-2026| manga ch3 (2160001): COMPLETED
-[1]Kilna       |09:46:28 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Kilna       |09:46:35 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Kilna       |09:46:39 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
-[1]Kilna       |09:46:44 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
-[1]Kilna       |09:46:49 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
-[1]Kilna       |09:46:53 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 18s
-[1]Kilna       |09:46:58 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
-[1]Kilna       |09:47:04 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
-[1]Kilna       |09:47:08 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 33s
-[1]Kilna       |09:47:12 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 38s
-[1]Kilna       |09:47:17 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 42s
-[1]Kilna       |09:47:21 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 46s
-[1]Kilna       |09:47:26 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 50s
-[1]Kilna       |09:47:31 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 56s
-[1]Kilna       |09:47:36 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 61s
-[1]Kilna       |09:47:40 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 65s
-[1]Kilna       |09:47:45 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 70s
-[1]Kilna       |09:47:49 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 75s
-[1]Kilna       |09:47:54 | 11-10-2026| manga ch4 (2400001): COMPLETED
-[1]Kilna       |09:47:57 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Kilna       |09:48:02 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Kilna       |09:48:07 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
-[1]Kilna       |09:48:11 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Kilna       |09:48:16 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
-[1]Kilna       |09:48:20 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
-[1]Kilna       |09:48:25 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
-[1]Kilna       |09:48:29 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 27s
-[1]Kilna       |09:48:34 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 32s
-[1]Kilna       |09:48:39 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 36s
-[1]Kilna       |09:48:43 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 41s
-[1]Kilna       |09:48:47 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 46s
-[1]Kilna       |09:48:52 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 50s
-[1]Kilna       |09:48:56 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 54s
-[1]Kilna       |09:49:03 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 59s
-[1]Kilna       |09:49:08 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 66s
-[1]Kilna       |09:49:13 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 70s
-[1]Kilna       |09:49:17 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 75s
-[1]Kilna       |09:49:22 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 80s
-[1]Kilna       |09:49:26 | 11-10-2026| manga ch5 (2490001): COMPLETED
-[1]Kilna       |09:49:29 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Kilna       |09:49:35 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Kilna       |09:49:39 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 4s
-[1]Kilna       |09:49:43 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
-[1]Kilna       |09:49:48 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 13s
-[1]Kilna       |09:49:53 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
-[1]Kilna       |09:49:58 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 22s
-[1]Kilna       |09:50:03 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 28s
-[1]Kilna       |09:50:07 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
-[1]Kilna       |09:50:12 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 37s
-[1]Kilna       |09:50:16 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
-[1]Kilna       |09:50:21 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
-[1]Kilna       |09:50:26 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 50s
-[1]Kilna       |09:50:31 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 56s
-[1]Kilna       |09:50:35 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 60s
-[1]Kilna       |09:50:39 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 65s
-[1]Kilna       |09:50:45 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 69s
-[1]Kilna       |09:50:49 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 74s
-[1]Kilna       |09:50:54 | 11-10-2026| manga ch6 (2610001): COMPLETED
-[1]Kilna       |09:50:57 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Kilna       |09:51:02 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Kilna       |09:51:07 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
-[1]Kilna       |09:51:11 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
-[1]Kilna       |09:51:16 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 13s
-[1]Kilna       |09:51:22 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 18s
-[1]Kilna       |09:51:26 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 24s
-[1]Kilna       |09:51:30 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 28s
-[1]Kilna       |09:51:35 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 32s
-[1]Kilna       |09:51:40 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 37s
-[1]Kilna       |09:51:44 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 41s
-[1]Kilna       |09:51:49 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 46s
-[1]Kilna       |09:51:53 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 51s
-[1]Kilna       |09:51:58 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 55s
-[1]Kilna       |09:52:02 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 60s
-[1]Kilna       |09:52:06 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 64s
-[1]Kilna       |09:52:11 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 68s
-[1]Kilna       |09:52:15 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 72s
-[1]Kilna       |09:52:21 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 77s
-[1]Kilna       |09:52:27 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 83s
-[1]Kilna       |09:52:31 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 88s
-[1]Kilna       |09:52:36 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 93s
-[1]Kilna       |09:52:41 | 11-10-2026| manga ch1 (180003): COMPLETED
-[1]Kilna       |09:52:44 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Kilna       |09:52:49 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Kilna       |09:52:53 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
-[1]Kilna       |09:52:57 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
-[1]Kilna       |09:53:02 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 13s
-[1]Kilna       |09:53:07 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 18s
-[1]Kilna       |09:53:11 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 22s
-[1]Kilna       |09:53:16 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 26s
-[1]Kilna       |09:53:21 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 31s
-[1]Kilna       |09:53:25 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 36s
-[1]Kilna       |09:53:30 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 41s
-[1]Kilna       |09:53:35 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 45s
-[1]Kilna       |09:53:40 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 51s
-[1]Kilna       |09:53:44 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 55s
-[1]Kilna       |09:53:48 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 59s
-[1]Kilna       |09:53:54 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 64s
-[1]Kilna       |09:53:58 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 69s
-[1]Kilna       |09:54:03 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 74s
-[1]Kilna       |09:54:07 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 78s
-[1]Kilna       |09:54:12 | 11-10-2026| manga ch2 (990005): COMPLETED
-[1]Kilna       |09:54:15 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Kilna       |09:54:20 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Kilna       |09:54:24 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
-[1]Kilna       |09:54:29 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
-[1]Kilna       |09:54:34 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 13s
-[1]Kilna       |09:54:38 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 18s
-[1]Kilna       |09:54:42 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 22s
-[1]Kilna       |09:54:46 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 27s
-[1]Kilna       |09:54:51 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 31s
-[1]Kilna       |09:54:55 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 35s
-[1]Kilna       |09:55:00 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 40s
-[1]Kilna       |09:55:04 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 44s
-[1]Kilna       |09:55:09 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 49s
-[1]Kilna       |09:55:13 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 53s
-[1]Kilna       |09:55:17 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 58s
-[1]Kilna       |09:55:22 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 62s
-[1]Kilna       |09:55:29 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 66s
-[1]Kilna       |09:55:34 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 73s
-[1]Kilna       |09:55:38 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 78s
-[1]Kilna       |09:55:43 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 82s
-[1]Kilna       |09:55:48 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 87s
-[1]Kilna       |09:55:52 | 11-10-2026| manga ch3 (1980001): COMPLETED
-[1]Kilna       |09:55:55 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Kilna       |09:56:00 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Kilna       |09:56:05 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
-[1]Kilna       |09:56:09 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Kilna       |09:56:14 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Kilna       |09:56:18 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 18s
-[1]Kilna       |09:56:23 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 23s
-[1]Kilna       |09:56:27 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 27s
-[1]Kilna       |09:56:31 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 31s
-[1]Kilna       |09:56:37 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 36s
-[1]Kilna       |09:56:41 | 11-10-2026| manga ch1 (2100001): COMPLETED
-[1]Kilna       |09:56:44 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Kilna       |09:56:50 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Kilna       |09:56:54 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 4s
-[1]Kilna       |09:56:59 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Kilna       |09:57:03 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Kilna       |09:57:07 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
-[1]Kilna       |09:57:12 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 22s
-[1]Kilna       |09:57:17 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 27s
-[1]Kilna       |09:57:22 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
-[1]Kilna       |09:57:26 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 37s
-[1]Kilna       |09:57:32 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 41s
-[1]Kilna       |09:57:38 | 11-10-2026| manga ch1 (2070001): COMPLETED
-[1]Kilna       |09:57:41 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Kilna       |09:57:47 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Kilna       |09:57:52 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 4s
-[1]Kilna       |09:57:56 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
-[1]Kilna       |09:58:01 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 13s
-[1]Kilna       |09:58:06 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
-[1]Kilna       |09:58:12 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
-[1]Kilna       |09:58:17 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 29s
-[1]Kilna       |09:58:22 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 34s
-[1]Kilna       |09:58:26 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 39s
-[1]Kilna       |09:58:30 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 43s
-[1]Kilna       |09:58:35 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 48s
-[1]Kilna       |09:58:39 | 11-10-2026| manga ch2 (2520001): COMPLETED
-[1]Kilna       |09:58:42 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Kilna       |09:58:50 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Kilna       |09:58:55 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 7s
-[1]Kilna       |09:59:00 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 11s
-[1]Kilna       |09:59:04 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 17s
-[1]Kilna       |09:59:09 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 21s
-[1]Kilna       |09:59:14 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 26s
-[1]Kilna       |09:59:20 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 31s
-[1]Kilna       |09:59:25 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 37s
-[1]Kilna       |09:59:29 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 41s
-[1]Kilna       |09:59:34 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 46s
-[1]Kilna       |09:59:38 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 50s
-[1]Kilna       |09:59:42 | 11-10-2026| manga ch3 (2550001): COMPLETED
+[1]Kilna       |07:01:58 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kilna menjalankan: Get Gift
-[1]Kilna       |09:59:46 | 11-10-2026| gift: 3/3 belum diterima
-[1]Kilna       |09:59:46 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Kilna       |09:59:49 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Kilna       |09:59:52 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Kilna       |07:01:58 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Kilna menjalankan: Setup Profile
-[1]Kilna       |09:59:55 | 11-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Kilna       |09:59:57 | 11-10-2026| profile: OK bio="https://x.com/gkilnaa" fav=yuki awarded=true +10pt
+[1]Kilna       |07:01:59 | 12-10-2026| profile: bio="https://x.com/gkilnaa" fav=yuki rewardAt=1791712796
+[1]Kilna       |07:01:59 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kilna menjalankan: Bind Wallet
-[1]Kilna       |09:59:58 | 11-10-2026| wallet: derivasi dari privateKeySolana -> CpKXS8Xf87CN494BJr5gEsEntMVWYp9gT7ZMcsEZw5gQ (cek cocok dengan wallet kamu!)
-[1]Kilna       |09:59:58 | 11-10-2026| wallet: /api/wallet OK (solana)
-[1]Kilna       |09:59:59 | 11-10-2026| wallet: /api/sol-address OK
+[1]Kilna       |07:01:59 | 12-10-2026| wallet: sudah terikat CpKXS8Xf87... (solana)
 
 == RINGKASAN ==
-- Kilna: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 3/3 completed | musik 5 trek ~1034.4294s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Kilna: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
