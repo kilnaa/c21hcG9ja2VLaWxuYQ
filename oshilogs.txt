@@ -12,7 +12,159 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kilna =====
-[1]Kilna       |07:20:22 | 20-10-2026| dashboard ERROR: dashboard http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kilna       |07:19:35 | 21-10-2026| login OK @gkilnaa | score=1560 rank=4570
+[1]Kilna       |07:19:35 | 21-10-2026| serverTime=2026-10-21T07:19:34.000Z local=2026-10-21T07:19:35.005Z
+--> [1]Kilna menjalankan: Claim Daily
+[1]Kilna       |07:19:36 | 21-10-2026| daily: OK +10 poin score=1570
+--> [1]Kilna menjalankan: Auto All Tasks (9 pending)
+[1]Kilna       |07:19:38 | 21-10-2026| [1/9] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805640590022088
+[1]Kilna       |07:19:38 | 21-10-2026| delay 10s...
+[1]Kilna       |07:19:50 | 21-10-2026| [2/9] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805431495970957
+[1]Kilna       |07:19:50 | 21-10-2026| delay 10s...
+[1]Kilna       |07:20:02 | 21-10-2026| [3/9] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805582201552593
+[1]Kilna       |07:20:02 | 21-10-2026| delay 10s...
+[1]Kilna       |07:20:14 | 21-10-2026| [4/9] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805579092390566
+[1]Kilna       |07:20:14 | 21-10-2026| delay 10s...
+[1]Kilna       |07:20:26 | 21-10-2026| [5/9] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805604122008050
+[1]Kilna       |07:20:26 | 21-10-2026| delay 10s...
+[1]Kilna       |07:20:39 | 21-10-2026| [6/9] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805676106191400
+[1]Kilna       |07:20:39 | 21-10-2026| delay 10s...
+[1]Kilna       |07:20:51 | 21-10-2026| [7/9] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805708939016725
+[1]Kilna       |07:20:51 | 21-10-2026| delay 10s...
+[1]Kilna       |07:21:04 | 21-10-2026| [8/9] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Kilna       |07:21:04 | 21-10-2026| delay 10s...
+[1]Kilna       |07:21:16 | 21-10-2026| [9/9] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gkilnaa/status/2112805955257202770
+[1]Kilna       |07:21:16 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kilna       |07:21:18 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/gkilnaa/status/2112806072733052676
+--> [1]Kilna menjalankan: Watch Anime
+[1]Kilna       |07:21:19 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Kilna       |07:21:19 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Kilna       |07:21:20 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Kilna       |07:21:27 | 21-10-2026| watch oshi-captains-hat: 5% (5.32/92.00s)
+[1]Kilna       |07:21:33 | 21-10-2026| watch oshi-captains-hat: 12% (11.35/92.00s)
+[1]Kilna       |07:21:40 | 21-10-2026| watch oshi-captains-hat: 18% (17.02/92.00s)
+[1]Kilna       |07:21:47 | 21-10-2026| watch oshi-captains-hat: 25% (23.06/92.00s)
+[1]Kilna       |07:21:53 | 21-10-2026| watch oshi-captains-hat: 31% (28.96/92.00s)
+[1]Kilna       |07:21:59 | 21-10-2026| watch oshi-captains-hat: 37% (34.56/92.00s)
+[1]Kilna       |07:22:05 | 21-10-2026| watch oshi-captains-hat: 43% (40.20/92.00s)
+[1]Kilna       |07:22:12 | 21-10-2026| watch oshi-captains-hat: 49% (45.66/92.00s)
+[1]Kilna       |07:22:18 | 21-10-2026| watch oshi-captains-hat: 56% (51.65/92.00s)
+[1]Kilna       |07:22:24 | 21-10-2026| watch oshi-captains-hat: 62% (57.26/92.00s)
+[1]Kilna       |07:22:30 | 21-10-2026| watch oshi-captains-hat: 68% (62.70/92.00s)
+[1]Kilna       |07:22:37 | 21-10-2026| watch oshi-captains-hat: 74% (68.29/92.00s)
+[1]Kilna       |07:22:43 | 21-10-2026| watch oshi-captains-hat: 80% (73.98/92.00s)
+[1]Kilna       |07:22:50 | 21-10-2026| watch oshi-captains-hat: 86% (79.72/92.00s)
+[1]Kilna       |07:22:56 | 21-10-2026| watch oshi-captains-hat: 92% (85.54/92.00s)
+[1]Kilna       |07:22:56 | 21-10-2026| watch oshi-captains-hat: COMPLETED (85.54/92.00s)
+[1]Kilna       |07:23:01 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Kilna       |07:23:03 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Kilna       |07:23:09 | 21-10-2026| watch oshi-rainbow-star: 6% (5.64/86.00s)
+[1]Kilna       |07:23:16 | 21-10-2026| watch oshi-rainbow-star: 12% (11.09/86.00s)
+[1]Kilna       |07:23:23 | 21-10-2026| watch oshi-rainbow-star: 20% (17.25/86.00s)
+[1]Kilna       |07:23:29 | 21-10-2026| watch oshi-rainbow-star: 26% (23.20/86.00s)
+[1]Kilna       |07:23:35 | 21-10-2026| watch oshi-rainbow-star: 33% (29.03/86.00s)
+[1]Kilna       |07:23:42 | 21-10-2026| watch oshi-rainbow-star: 40% (34.55/86.00s)
+[1]Kilna       |07:23:48 | 21-10-2026| watch oshi-rainbow-star: 47% (40.60/86.00s)
+[1]Kilna       |07:23:54 | 21-10-2026| watch oshi-rainbow-star: 53% (46.11/86.00s)
+[1]Kilna       |07:24:02 | 21-10-2026| watch oshi-rainbow-star: 60% (51.73/86.00s)
+[1]Kilna       |07:24:08 | 21-10-2026| watch oshi-rainbow-star: 67% (58.41/86.00s)
+[1]Kilna       |07:24:15 | 21-10-2026| watch oshi-rainbow-star: 74% (64.06/86.00s)
+[1]Kilna       |07:24:21 | 21-10-2026| watch oshi-rainbow-star: 81% (70.40/86.00s)
+[1]Kilna       |07:24:27 | 21-10-2026| watch oshi-rainbow-star: 88% (76.15/86.00s)
+[1]Kilna       |07:24:34 | 21-10-2026| watch oshi-rainbow-star: 94% (81.61/86.00s)
+[1]Kilna       |07:24:34 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (81.61/86.00s)
+[1]Kilna       |07:24:39 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Kilna       |07:24:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Kilna       |07:24:46 | 21-10-2026| watch oshi-rainbow-lighthouse: 5% (5.18/87.00s)
+[1]Kilna       |07:24:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (10.87/87.00s)
+[1]Kilna       |07:25:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (16.66/87.00s)
+[1]Kilna       |07:25:09 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (23.06/87.00s)
+[1]Kilna       |07:25:15 | 21-10-2026| watch oshi-rainbow-lighthouse: 33% (29.16/87.00s)
+[1]Kilna       |07:25:21 | 21-10-2026| watch oshi-rainbow-lighthouse: 40% (35.30/87.00s)
+[1]Kilna       |07:25:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 48% (41.85/87.00s)
+[1]Kilna       |07:25:34 | 21-10-2026| watch oshi-rainbow-lighthouse: 54% (47.80/87.00s)
+[1]Kilna       |07:25:41 | 21-10-2026| watch oshi-rainbow-lighthouse: 61% (53.91/87.00s)
+[1]Kilna       |07:25:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 68% (59.56/87.00s)
+[1]Kilna       |07:25:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 75% (65.25/87.00s)
+[1]Kilna       |07:26:00 | 21-10-2026| watch oshi-rainbow-lighthouse: 81% (71.20/87.00s)
+[1]Kilna       |07:26:06 | 21-10-2026| watch oshi-rainbow-lighthouse: 88% (76.70/87.00s)
+[1]Kilna       |07:26:12 | 21-10-2026| watch oshi-rainbow-lighthouse: 94% (82.38/87.00s)
+[1]Kilna       |07:26:12 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.38/87.00s)
+[1]Kilna       |07:26:17 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Kilna       |07:26:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Kilna       |07:26:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.17/181.00s)
+[1]Kilna       |07:26:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.75/181.00s)
+[1]Kilna       |07:26:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.68/181.00s)
+[1]Kilna       |07:26:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.25/181.00s)
+[1]Kilna       |07:26:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.03/181.00s)
+[1]Kilna       |07:26:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.61/181.00s)
+[1]Kilna       |07:27:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.48/181.00s)
+[1]Kilna       |07:27:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 24% (45.15/181.00s)
+[1]Kilna       |07:27:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.59/181.00s)
+[1]Kilna       |07:27:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 30% (56.05/181.00s)
+[1]Kilna       |07:27:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (61.90/181.00s)
+[1]Kilna       |07:27:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.68/181.00s)
+[1]Kilna       |07:27:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.30/181.00s)
+[1]Kilna       |07:27:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.83/181.00s)
+[1]Kilna       |07:27:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.65/181.00s)
+[1]Kilna       |07:28:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 49% (90.12/181.00s)
+[1]Kilna       |07:28:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.69/181.00s)
+[1]Kilna       |07:28:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.46/181.00s)
+[1]Kilna       |07:28:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.01/181.00s)
+[1]Kilna       |07:28:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.62/181.00s)
+[1]Kilna       |07:28:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.85/181.00s)
+[1]Kilna       |07:28:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.82/181.00s)
+[1]Kilna       |07:28:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 71% (130.31/181.00s)
+[1]Kilna       |07:28:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 75% (136.41/181.00s)
+[1]Kilna       |07:28:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.93/181.00s)
+[1]Kilna       |07:29:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.84/181.00s)
+[1]Kilna       |07:29:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.58/181.00s)
+[1]Kilna       |07:29:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.29/181.00s)
+[1]Kilna       |07:29:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.01/181.00s)
+[1]Kilna       |07:29:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.01/181.00s)
+--> [1]Kilna menjalankan: Read Article
+[1]Kilna       |07:29:24 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Kilna       |07:29:25 | 21-10-2026| mint eligibility: {"userId":"2011479517563666436","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@gkilna","status":"submitted","revision":"f724f5f7-8cd0-41f8-ae0b-75a3e92909cf","
+[1]Kilna       |07:29:31 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+--> [1]Kilna menjalankan: Quiz Anime
+[1]Kilna       |07:29:33 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Kilna       |07:29:33 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Kilna       |07:29:33 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Kilna       |07:29:33 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Kilna       |07:29:33 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Kilna       |07:29:33 | 21-10-2026| quiz ep6: sudah dijawab
+--> [1]Kilna menjalankan: Music Missions (realtime, bisa lama!)
+[1]Kilna       |07:29:35 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kilna       |07:29:36 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Kilna       |07:29:36 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kilna       |07:29:36 | 21-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kilna menjalankan: Claim Missions
+[1]Kilna       |07:29:36 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Kilna       |07:29:36 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kilna       |07:29:36 | 21-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kilna menjalankan: Check Eligibility
+
+--- eligibility [1]Kilna ---
+  @gkilnaa | score=1560 rank=4570
+  tasks    [##################--] 71/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Kilna menjalankan: Read Manga
+[1]Kilna       |07:29:40 | 21-10-2026| manga: 0/13 chapter belum completed
+--> [1]Kilna menjalankan: Get Gift
+[1]Kilna       |07:29:40 | 21-10-2026| gift: 0/4 belum diterima
+--> [1]Kilna menjalankan: Setup Profile
+[1]Kilna       |07:29:41 | 21-10-2026| profile: bio="https://x.com/gkilnaa" fav=yuki rewardAt=1791712796
+[1]Kilna       |07:29:41 | 21-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Kilna menjalankan: Bind Wallet
+[1]Kilna       |07:29:41 | 21-10-2026| wallet: sudah terikat CpKXS8Xf87... (solana)
 
 == RINGKASAN ==
-- Kilna: daily=- | tasks OK 0/0
+- Kilna: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
