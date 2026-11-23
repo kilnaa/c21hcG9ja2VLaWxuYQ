@@ -12,41 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kilna =====
-[1]Kilna       |13:09:10 | 22-11-2026| login OK @gkilnaa | score=3420 rank=2250
-[1]Kilna       |13:09:10 | 22-11-2026| serverTime=2026-11-22T13:09:09.000Z local=2026-11-22T13:09:10.084Z
+[1]Kilna       |15:45:32 | 23-11-2026| login OK @gkilnaa | score=3470 rank=2211
+[1]Kilna       |15:45:32 | 23-11-2026| serverTime=2026-11-23T15:45:32.000Z local=2026-11-23T15:45:32.929Z
 --> [1]Kilna menjalankan: Claim Daily
-[1]Kilna       |13:09:11 | 22-11-2026| daily: OK +10 poin score=3430
---> [1]Kilna menjalankan: Auto All Tasks (4 pending)
-[1]Kilna       |13:09:14 | 22-11-2026| [1/4] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/gkilnaa/status/2124490122066522337
-[1]Kilna       |13:09:14 | 22-11-2026| delay 10s...
-[1]Kilna       |13:09:27 | 22-11-2026| [2/4] ddf40dac (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/gkilnaa/status/2124489879247664390
-[1]Kilna       |13:09:27 | 22-11-2026| delay 10s...
-[1]Kilna       |13:09:39 | 22-11-2026| [3/4] 765f5781 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/gkilnaa/status/2124490005830703738
-[1]Kilna       |13:09:39 | 22-11-2026| delay 10s...
-[1]Kilna       |13:09:52 | 22-11-2026| [4/4] 043ba6d6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/gkilnaa/status/2124489960508360342
-[1]Kilna       |13:09:52 | 22-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kilna       |13:09:54 | 22-11-2026| [1/1] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124429301026271 | proof=https://x.com/gkilnaa/status/2124490285658109938
+[1]Kilna       |15:45:34 | 23-11-2026| daily: OK +10 poin score=3480
+--> [1]Kilna menjalankan: Auto All Tasks (2 pending)
+[1]Kilna       |15:45:36 | 23-11-2026| [1/2] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/gkilnaa/status/2124891721753006723
+[1]Kilna       |15:45:36 | 23-11-2026| delay 10s...
+[1]Kilna       |15:45:49 | 23-11-2026| [2/2] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/gkilnaa/status/2124891658590610779
+[1]Kilna       |15:45:49 | 23-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kilna       |15:45:51 | 23-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124855547879113 | proof=https://x.com/gkilnaa/status/2124891714649000511
 --> [1]Kilna menjalankan: Watch Anime
-[1]Kilna       |13:09:55 | 22-11-2026| watch: semua video sudah completed
+[1]Kilna       |15:45:52 | 23-11-2026| watch: semua video sudah completed
 --> [1]Kilna menjalankan: Read Article
-[1]Kilna       |13:09:56 | 22-11-2026| news: 34/34 artikel selesai dibaca
-[1]Kilna       |13:09:57 | 22-11-2026| mint eligibility: {"userId":"2011479517563666436","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@gkilna","status":"submitted","revision":"f724f5f7-8cd0-41f8-ae0b-75a3e92909cf","
-[1]Kilna       |13:09:57 | 22-11-2026| news: semua artikel sudah dibaca
+[1]Kilna       |15:45:52 | 23-11-2026| news: 34/34 artikel selesai dibaca
+[1]Kilna       |15:45:53 | 23-11-2026| mint eligibility: {"userId":"2011479517563666436","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@gkilna","status":"submitted","revision":"f724f5f7-8cd0-41f8-ae0b-75a3e92909cf","
+[1]Kilna       |15:45:53 | 23-11-2026| news: semua artikel sudah dibaca
 --> [1]Kilna menjalankan: Quiz Anime
 --> [1]Kilna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kilna       |13:09:59 | 22-11-2026| music: kedua misi sudah tercapai, stop
-[1]Kilna       |13:09:59 | 22-11-2026| mission music-listens-10: sudah diklaim
-[1]Kilna       |13:09:59 | 22-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kilna       |13:09:59 | 22-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kilna       |15:45:54 | 23-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kilna       |15:45:55 | 23-11-2026| mission music-listens-10: sudah diklaim
+[1]Kilna       |15:45:55 | 23-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kilna       |15:45:55 | 23-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kilna menjalankan: Claim Missions
-[1]Kilna       |13:10:00 | 22-11-2026| mission music-listens-10: sudah diklaim
-[1]Kilna       |13:10:00 | 22-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kilna       |13:10:00 | 22-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kilna       |15:45:55 | 23-11-2026| mission music-listens-10: sudah diklaim
+[1]Kilna       |15:45:55 | 23-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kilna       |15:45:55 | 23-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kilna menjalankan: Check Eligibility
 
 --- eligibility [1]Kilna ---
-  @gkilnaa | score=3420 rank=2250
-  tasks    [#########-----------] 3/7
+  @gkilnaa | score=3470 rank=2211
+  tasks    [##############------] 5/7
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kilna menjalankan: Read Manga
-[1]Kilna       |13:10:04 | 22-11-2026| manga: 0/13 chapter belum completed
+[1]Kilna       |15:45:57 | 23-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kilna menjalankan: Get Gift
-[1]Kilna       |13:10:06 | 22-11-2026| gift: 3/12 belum diterima
-[1]Kilna       |13:10:07 | 22-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kilna       |13:10:10 | 22-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kilna       |13:10:13 | 22-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kilna       |15:45:59 | 23-11-2026| gift: 3/12 belum diterima
+[1]Kilna       |15:46:00 | 23-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kilna       |15:46:03 | 23-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kilna       |15:46:05 | 23-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kilna menjalankan: Setup Profile
-[1]Kilna       |13:10:15 | 22-11-2026| profile: bio="https://x.com/gkilnaa" fav=yuki rewardAt=1791712796
-[1]Kilna       |13:10:15 | 22-11-2026| profile: bonus sudah diklaim, skip
+[1]Kilna       |15:46:08 | 23-11-2026| profile: bio="https://x.com/gkilnaa" fav=yuki rewardAt=1791712796
+[1]Kilna       |15:46:08 | 23-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kilna menjalankan: Bind Wallet
-[1]Kilna       |13:10:16 | 22-11-2026| wallet: sudah terikat CpKXS8Xf87... (solana)
+[1]Kilna       |15:46:08 | 23-11-2026| wallet: sudah terikat CpKXS8Xf87... (solana)
 
 == RINGKASAN ==
-- Kilna: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Kilna: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
